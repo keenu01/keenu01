@@ -19,7 +19,7 @@
   stuff i like to do:
 </h2>
 <ol>
-  <li>Roblos/li>
+  <li>Roblos</li>
   <li>Deep Learning</li>
   <li>OSU</li>
   <li>skibidi toilet</li>
