@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
   goofy gobber machine lorning sigma
-</h1>
+</h3>
 
 <p align="center">
   <img src="https://th.bing.com/th/id/OIP.vbTF3v_DfyLLqMi6qW7CzAHaHa?rs=1&pid=ImgDetMain" />
