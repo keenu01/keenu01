@@ -1,2 +1,2 @@
-###goober machine lorning 
-![alt text](https://www.bing.com/images/search?q=ryo%20png%20bochii%20chibi&FORM=IQFRBA&id=4091EB9B1475EA6DFEB6EA8B3E3D29D3F5E3A615)
+### goober machine lorning 
+![alt text](https://th.bing.com/th/id/OIP.vbTF3v_DfyLLqMi6qW7CzAHaHa?rs=1&pid=ImgDetMain)
