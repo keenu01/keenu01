@@ -16,11 +16,7 @@
 </p>
 
 <h2>
-  stuff i like to do:
+  sample of something i wrote:
+  `import your mom`
 </h2>
-<ol>
-  <li>Roblos</li>
-  <li>Deep Learning</li>
-  <li>OSU</li>
-  <li>skibidi toilet</li>
-</ol>
+
