@@ -17,6 +17,6 @@
 
 <h2>
   sample of something i wrote:
-  `import your mom`
 </h2>
+ `import your mom`
 
