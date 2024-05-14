@@ -18,7 +18,7 @@
 <h2>
   sample of something i wrote:
 </h2>
-<head>
-  ```okay```
-</head>
+<p>
+  {okay}
+</p>
 
