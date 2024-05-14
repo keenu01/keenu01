@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/3a/3f/68/3a3f68ffed5694f8ac6f4775c7d8ca26.jpg">
+  <img src="https://i.redd.it/1pspzhs07xoa1.jpg">
 </p>
 <h3 align="center">
   Languages:
