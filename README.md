@@ -15,7 +15,7 @@
   <img src="https://th.bing.com/th/id/R.2395ce87da3f91b4cdb179ec21ce7768?rik=9742j907NCeMAw&pid=ImgRaw&r=0" width="50">
 </p>
 <h3 align="center">
-    tools:
+    tools: 
 </h3>
 <p align="center">
  <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="50"> 
