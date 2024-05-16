@@ -22,6 +22,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" width="50">
  <img src="https://avatars.githubusercontent.com/u/33467679?s=280&v=4" width="50">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png" width="50">
+ <img src="https://1000logos.net/wp-content/uploads/2023/04/Visual-Studio-logo.png" width="50>
 </p>
 <h3 align="center">
   okay byeee
