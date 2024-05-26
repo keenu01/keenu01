@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/YOphBzO0MfoAAAAj/japanese-animation.gif">
+  <img src="https://i.pinimg.com/originals/24/6d/3f/246d3f23d453d44924a17b28546d8278.gif">
 </p>
 <h3 align="center">
   Languages:
